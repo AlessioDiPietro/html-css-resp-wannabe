@@ -76,7 +76,7 @@ img {
 
 @media (max-width: 420px) {
   .container {
-    padding: 0 10px;
+    padding: 0 12px;
   }
   #lezioni, #why {
     background-color: #f2f2cd;
