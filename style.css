@@ -95,6 +95,7 @@ img {
   #steps .row>.right {
     display: block;
     width: 100%;
+    margin-bottom: 20px;
   }
   #why .row>.first,
   #why .row>.second,
@@ -124,5 +125,8 @@ img {
   img {
     height: 100px;
     margin-top: 30px;
+  }
+  hr {
+    margin: 0px;
   }
 
